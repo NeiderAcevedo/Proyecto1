@@ -1,7 +1,28 @@
 /*index*/
 
-/*Pagina1*/
 
-/*Pagina2*/
+header{
+    width: 100%;
+    overflow: hidden;
+    background:#ffffff;
+    margin-bottom: 20px;
+}
 
-/*Registro*/
+.wrapper {
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    overflow: hidden;
+}
+
+.logo {
+    font-size: 50px;
+    line-height: 90px;
+    float:left; 
+}
+
+.barrNav{
+    float: right;
+    line-height: 90px;
+    
+}
