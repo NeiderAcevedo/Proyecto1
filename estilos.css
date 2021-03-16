@@ -1,4 +1,4 @@
-/*index*/
+/*Diseños Generales*/
 
 
 header{
@@ -24,5 +24,42 @@ header{
 .barrNav{
     float: right;
     line-height: 90px;
-    
 }
+ .Imgindex{
+     width: 1000px;
+     height: 500px; ;
+ }
+
+ .foter{
+     background: rgb(221, 221, 221);
+ }
+
+ .foterred{
+    text-align: center;
+    margin:;
+ }
+
+ .foterinfo{
+     text-align: center;
+     text-decoration: black;
+
+ }
+
+
+ /* historia */
+ .imghistoria{
+    width: 1000px;
+    height: 500px; ;
+ }
+
+ .videohistoria{
+    width: 1000px;
+    height: 500px; ;
+ }
+
+ /* Carreras*/
+
+ .imgcarreras{
+     width: 1000px;
+     height: 150px;
+ }
