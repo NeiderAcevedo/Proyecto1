@@ -18,12 +18,32 @@ header{
 .logo {
     font-size: 50px;
     line-height: 90px;
-    float:left; 
+    display:inline-block; 
+    
+}
+
+
+
+header nav a{
+    color: #000000;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+}
+header nav a:hover{
+    background: #dfdfdf;
+    border-radius: 6px;
 }
 
 .barrNav{
-    float: right;
+    margin-left:20px ;
     line-height: 90px;
+    display:inline-block;
+
 }
  .Imgindex{
      width: 1000px;
@@ -36,14 +56,14 @@ header{
 
  .foterred{
     text-align: center;
-    margin:;
+    
  }
 
  .foterinfo{
      text-align: center;
      text-decoration: black;
-
  }
+ 
 
 
  /* historia */
@@ -54,7 +74,7 @@ header{
 
  .videohistoria{
     width: 1000px;
-    height: 500px; ;
+    height: 500px; 
  }
 
  /* Carreras*/
@@ -63,3 +83,48 @@ header{
      width: 1000px;
      height: 150px;
  }
+
+/* Equipos*/
+
+.imgequipos{
+    width:600px ;
+    height: 400px;
+}
+
+.imgmovistar{
+    width:600px ;
+    height: 400px;
+}
+
+.imgpaugeot{
+    width:600px ;
+    height: 400px;
+}
+
+.imgsky{
+    width:600px ;
+    height: 400px;
+}
+
+.imgastana{
+    width:600px ;
+    height: 400px;
+}
+
+/* Registro*/
+
+.agregistro{
+    display: block; 
+}
+
+.centerregistro{
+
+    
+
+}
+
+.buttregis{
+    background: rgb(75, 147, 255);
+
+}
+
