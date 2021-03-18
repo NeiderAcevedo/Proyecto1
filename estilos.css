@@ -117,10 +117,8 @@ header nav a:hover{
     display: block; 
 }
 
-.centerregistro{
-
-    
-
+form ul{
+    border:black 2px solid;
 }
 
 .buttregis{
