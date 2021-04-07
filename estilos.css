@@ -8,6 +8,10 @@ header{
     margin-bottom: 20px;
 }
 
+.header2{
+    margin-left:10px ;
+
+}
 .wrapper {
     width: 90%;
     max-width: 1000px;
